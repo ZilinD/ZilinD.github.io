@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = 'Zero'
 
     [languages.en.params]
-      author = "Lorem ipsum"
+      author = "Zhilin Dai"
       description = "Ph.D Student in [Lorem ipsum College](https://example.com). Focusing on Computer Vision and Deep Learning."
       motto = "Most things in the world are not that important. But truth and love matter."
     
@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = '学术主页'
     
     [languages.zh.params]
-      author = "王小明"
+      author = "戴智林"
       description = "某某大学博士生，专注于计算机视觉与深度学习"
       motto = "世界上大部分事，都没有太大意义。真理与爱除外。"
     
