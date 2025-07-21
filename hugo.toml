@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Zhilin Dai"
-      description = "Ph.D Student in [Lorem ipsum College](https://example.com). Focusing on Computer Vision and Deep Learning."
+      description = "Master's Student in [Nanjing University](https://www.nju.edu.cn). Focusing on Multimodal Large Models."
       motto = "Most things in the world are not that important. But truth and love matter."
     
     [[languages.en.menu.main]]
@@ -61,7 +61,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     
     [languages.zh.params]
       author = "戴智林"
-      description = "某某大学博士生，专注于计算机视觉与深度学习"
+      description = "南京大学硕士生，专注于计算机视觉与深度学习"
       motto = "世界上大部分事，都没有太大意义。真理与爱除外。"
     
     [[languages.zh.menu.main]]
